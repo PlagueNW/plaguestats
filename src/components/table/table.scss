@@ -1,0 +1,42 @@
+.table {
+  .cellWrapper {
+    display: flex;
+    align-items: center;
+
+    .image {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      margin-right: 10px;
+      object-fit: cover;
+    }
+  }
+
+  .status {
+    padding: 5px;
+    border-radius: 5px;
+
+    &.Win {
+      color: green;
+      background-color: rgba(0, 128, 0, 0.151);
+    }
+    &.Lose {
+      color: rgb(141, 15, 15);
+      background-color: rgb(255 0 0 / 10%)
+    }
+  }
+
+  .cellAction {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    .viewButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: #05381c;
+      border: 1px dotted rgba(5, 65, 15, 0.596);
+      cursor: pointer;
+    }
+  }
+}
