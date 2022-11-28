@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/plaguestats/static/css/main.8334596e.css",
-    "main.js": "/plaguestats/static/js/main.3863d057.js",
+    "main.js": "/plaguestats/static/js/main.e76a2e7c.js",
     "index.html": "/plaguestats/index.html",
     "main.8334596e.css.map": "/plaguestats/static/css/main.8334596e.css.map",
-    "main.3863d057.js.map": "/plaguestats/static/js/main.3863d057.js.map"
+    "main.e76a2e7c.js.map": "/plaguestats/static/js/main.e76a2e7c.js.map"
   },
   "entrypoints": [
     "static/css/main.8334596e.css",
-    "static/js/main.3863d057.js"
+    "static/js/main.e76a2e7c.js"
   ]
 }
